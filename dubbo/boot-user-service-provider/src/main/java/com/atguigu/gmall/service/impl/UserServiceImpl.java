@@ -29,6 +29,7 @@ public class UserServiceImpl implements UserService {
 //			e.printStackTrace();
 //		}hot-fix master
 		//push test
+		//pull test
 		if(Math.random()>0.5) {
 			throw new RuntimeException();
 		}
